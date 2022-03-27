@@ -1,6 +1,16 @@
-20220326	09:40:24	b7fc41c5-f090-4980-9e2b-dc351ef5a827	/new-page: GET
-20220326	09:40:24	c610c3e7-8fd5-401c-9c70-834705d56dc2	/img/yamaha.png: GET
-20220326	09:40:25	30c292e9-c033-48d7-99ac-ddd8a3e095f3	/favicon.ico: GET
-20220326	09:42:45	6eb05d05-ae9c-4fec-85c4-adb510749a1c	/new-page: GET
-20220326	09:43:51	d2aaee9e-8540-4a44-a7a6-36473866a5d0	/new-page: GET
-20220326	09:43:51	62980d77-37f9-4056-bc21-dca206892f4c	/img/yamaha.png: GET
+20220327	10:10:25	a47df67a-4a34-413f-bb69-b97ce6292c6d	GET	undefined	/
+20220327	10:10:25	55d147ad-940f-4224-9e97-e5131450d88a	GET	undefined	/css/style.css
+20220327	10:14:56	b65897a0-cb7d-458e-a2f0-ca601a7c34bf	GET	undefined	/
+20220327	10:14:57	2c199191-0fef-48ae-9e9f-a8aa55bfe4b1	GET	undefined	/css/style.css
+20220327	10:16:59	337fcb17-9337-42f2-9c9f-11791dd2822a	GET	https://www.google.com	/
+20220327	10:22:26	fef6d298-f965-4020-9213-5c6b69a315b5	GET	undefined	/
+20220327	10:22:26	0576ecf0-f800-433c-8faf-9be6406d5b15	GET	undefined	/css/style.css
+20220327	10:22:41	897f59b0-8546-4a50-9bce-7fa51dbb1490	GET	https://www.google.com	/
+20220327	10:24:26	b7eb734d-f360-4b89-8ca6-646a67d08fe3	GET	https://www.google.com	/
+20220327	10:34:03	525d4ed1-65f9-4fc8-8330-beb9b74df5dc	GET	https://www.google.com	/
+20220327	10:34:40	83512bd0-af0d-4384-ae64-c2477a4fbbe4	GET	https://www.google.com	/
+20220327	10:35:41	4cbd526a-c6f9-4129-8555-4e760b5b277a	GET	https://www.google.com	/
+20220327	10:36:32	9416545c-a8b3-4d45-b723-5c7fda64f072	GET	https://www.google.com	/
+20220327	10:38:48	6f58402b-3e28-4e36-afc0-e805bc14a2dc	GET	https://www.google.com	/
+20220327	10:39:21	dcc2b1b1-aec3-4440-aec5-c3b2f1249042	GET	undefined	/
+20220327	10:39:59	fdd65b92-49b5-4805-a3f7-b37335392555	GET	https://www.google.com	/
