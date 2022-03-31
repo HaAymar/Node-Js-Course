@@ -1,1 +1,6 @@
 20220326	09:42:45	40fc105c-4924-40c8-b05e-749f21aa2d04	TypeError: fsPromises.readFil is not a function
+20220331	09:32:12	8662b76d-12a5-4a62-bc38-0852a2db4e91	Error: Not allowed by CORS
+20220331	10:11:20	57abeacf-08c3-46ec-a277-438246bc477a	Error: ENOENT: no such file or directory, stat 'C:\Users\hakiz\Documents\Mes fichiers\Node Js full\npm\subdir\views\index.html'
+20220331	10:11:25	f9e0bbac-6355-470a-8dcc-a5611904e99d	Error: ENOENT: no such file or directory, stat 'C:\Users\hakiz\Documents\Mes fichiers\Node Js full\npm\subdir\views\index.html'
+20220331	10:18:39	cf8bc3c3-45ed-4709-bb65-0f93aec30a8c	Error: ENOENT: no such file or directory, stat 'C:\Users\hakiz\Documents\Mes fichiers\Node Js full\npm\views\404.html'
+20220331	10:20:39	ab47db75-5d1d-4396-a142-402a61b6d5fb	Error: ENOENT: no such file or directory, stat 'C:\Users\hakiz\Documents\Mes fichiers\Node Js full\npm\views\404.html'
